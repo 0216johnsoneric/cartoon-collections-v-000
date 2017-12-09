@@ -7,9 +7,7 @@ end
 
 def summon_captain_planet(array)# code an argument here
   array.collect { |ring|
-    return ring.capitalize + "!"
-  }# Your code here
-
+    return ring.capitalize + "!" }# Your code here
 end
 
 # def summon_captain_planet(array)
